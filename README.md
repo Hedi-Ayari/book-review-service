@@ -24,8 +24,8 @@ This project is a **Book Review Service** built using Node.js, Express, MongoDB,
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Hedi-Ayari/book-review-servicee.git
-cd book-review-servicee
+git clone https://github.com/Hedi-Ayari/book-review-service.git
+cd book-review-service
 ```
 
 ### 2. Set Up Environment Variables
